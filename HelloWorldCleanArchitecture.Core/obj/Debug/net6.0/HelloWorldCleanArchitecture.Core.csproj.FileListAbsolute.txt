@@ -1,0 +1,11 @@
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.AssemblyInfo.cs
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\bin\Debug\net6.0\HelloWorldCleanArchitecture.Core.deps.json
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\bin\Debug\net6.0\HelloWorldCleanArchitecture.Core.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\bin\Debug\net6.0\ref\HelloWorldCleanArchitecture.Core.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\bin\Debug\net6.0\HelloWorldCleanArchitecture.Core.pdb
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\ref\HelloWorldCleanArchitecture.Core.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Core\obj\Debug\net6.0\HelloWorldCleanArchitecture.Core.pdb

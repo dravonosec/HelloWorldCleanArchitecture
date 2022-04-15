@@ -1,0 +1,15 @@
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.deps.json
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\ref\HelloWorldCleanArchitecture.Infrastructure.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.pdb
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\HelloWorldCleanArchitecture.Core.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\bin\Debug\net6.0\HelloWorldCleanArchitecture.Core.pdb
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\ref\HelloWorldCleanArchitecture.Infrastructure.dll
+C:\Users\magog\source\repos\HelloWorldCleanArchitecture\HelloWorldCleanArchitecture.Infrastructure\obj\Debug\net6.0\HelloWorldCleanArchitecture.Infrastructure.pdb
